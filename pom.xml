@@ -20,6 +20,7 @@
     <module>ribbon</module>
     <module>sax</module>
     <module>slf4j</module>
+      <module>cdi</module>
   </modules>
 
   <properties>
@@ -41,7 +42,7 @@
 
     <junit.version>4.12</junit.version>
     <!-- last version supporting JDK 7 -->
-    <assertj.version>1.7.1</assertj.version>
+    <assertj.version>2.6.0</assertj.version>
     <jackson.version>2.6.4</jackson.version>
 
     <animal-sniffer-maven-plugin.version>1.15</animal-sniffer-maven-plugin.version>
